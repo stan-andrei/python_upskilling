@@ -7,3 +7,5 @@ if __name__ == "__main__":
     print("Everyday is a new box boys.You open it, you look at whats inside. "
           " Its up to you to determine if its a gift or a coffin.")
     print("-Jax teller")
+
+input("Press any key to exit")

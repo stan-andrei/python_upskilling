@@ -10,3 +10,5 @@ if __name__ == "__main__":
 
     for i in range(start, end+1, count):
         print(i)
+
+input("Press any key to exit")

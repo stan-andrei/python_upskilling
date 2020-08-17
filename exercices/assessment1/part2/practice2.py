@@ -5,4 +5,5 @@ if __name__ == "__main__":
     program ends'''
 
     print("Stan Andrei Alexandru")
-    input("Press Enter to exit")
+
+input("Press Enter to exit")
